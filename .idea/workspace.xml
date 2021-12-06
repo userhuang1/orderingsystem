@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e150757-1fb6-4576-8e39-21a38e6a5a36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/southwind/AccountApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/southwind/AccountApplication.java" afterDir="false" />
+    <list default="true" id="13c30510-1bf3-4bd8-9440-e249bd7a3289" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/account/src/main/java/com/southwind/controller/AccountHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/southwind/controller/AccountHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/southwind/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/southwind/entity/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientfeign/clientfeign.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configserver/configserver.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order/order.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orderingsystem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +21,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
@@ -74,6 +63,19 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -100,7 +102,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="hxb/2021-12-05_21_46_00/test" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -111,9 +113,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test(测试): 测试的" />
-    <option name="LAST_COMMIT_MESSAGE" value="test(测试): 测试的" />
+    <MESSAGE value="ttest" />
+    <option name="LAST_COMMIT_MESSAGE" value="ttest" />
   </component>
 </project>
