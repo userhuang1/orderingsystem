@@ -28,10 +28,6 @@ public class AccountHandler {
                 account = userRepository.login(username, password);
                 break;
             case "admin":
-
-
-
-
                 account = adminRepository.login(username, password);
                 break;
         }

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13c30510-1bf3-4bd8-9440-e249bd7a3289" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/account/src/main/java/com/southwind/controller/AccountHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/southwind/controller/AccountHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/southwind/repository/AdminRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/southwind/repository/AdminRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,14 @@
       <updated>1638709692229</updated>
       <workItem from="1638709693742" duration="2356000" />
     </task>
+    <task id="LOCAL-00001" summary="ttest">
+      <created>1638764359693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638764359693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +110,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -118,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test(测试): 测试的" />
     <MESSAGE value="ttest" />
-    <option name="LAST_COMMIT_MESSAGE" value="ttest" />
+    <MESSAGE value="2021年12月06日12:30:18测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021年12月06日12:30:18测试" />
   </component>
 </project>
